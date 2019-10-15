@@ -2,6 +2,7 @@
 # realizado por Angel Yocupicio
 # respirocodigo.com
 # Versión de Python 2.7.x
+# Hecho en GNU/Linux, Manjaro Linux
 
 n=input("¿Hasta qué número deseas generar los números primos? ")
 print "Números primos entre 1 y {}".format(n)
