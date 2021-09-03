@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # realizado por Angel Yocupicio
-# respirocodigo.com
+# yocupicio.com
 # Versión de Python 2.7.x
 # Hecho en GNU/Linux, Manjaro Linux
 
